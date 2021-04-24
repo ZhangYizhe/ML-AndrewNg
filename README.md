@@ -1,4 +1,6 @@
 # ML-AndrewNg
+This project aimed to complete all courses of Machine Learing by Andrew Ng. I summaried all knowledge in the file named Summary. These note files point all important content and include all formulas.
+
 https://www.coursera.org/learn/machine-learning
 
 ## Notes
